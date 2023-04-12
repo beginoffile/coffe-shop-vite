@@ -22,6 +22,7 @@ export default defineConfig({
   // ],
   // appType:'mpa',
   root: 'src',
+  base:'',
   // assetsInclude:['src/assets/img/*.jpg'],
   plugins:[],
   build:{
